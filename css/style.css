@@ -1,0 +1,15 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+.maincont{
+	width: 50%;
+	margin-left: 25%;
+	min-height: 400px;
+}
+
+.shouts{
+	width: 90%;
+	margin-left: 5%;
+}
